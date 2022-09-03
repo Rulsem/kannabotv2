@@ -1,1 +1,1 @@
-web: node . --server
+putganteng: npm start
